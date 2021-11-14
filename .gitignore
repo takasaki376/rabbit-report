@@ -1,0 +1,3 @@
+stage2/out/checkpoints/weights*.hdf5
+stage2/out/tensorBoard/*/events.out.tfevents.*
+
