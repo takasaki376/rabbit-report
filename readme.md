@@ -18,7 +18,7 @@
 
 1. [Section1：入力層～中間層](./stage3-day1/Section1：入力層～中間層.ipynb)
 1. [Section2：活性化関数](./stage3-day1/Section2：活性化関数.ipynb)
-1. [Section3：出力層、Section4：勾配降下法](./Section3：出力層、Section4：勾配降下法.ipynb)
+1. [Section3：出力層、Section4：勾配降下法](./stage3-day1/Section3：出力層、Section4：勾配降下法.ipynb)
 1. [Section5：誤差逆伝播法](./stage3-day1/Section5：誤差逆伝播法.ipynb)
 
 ## day2
