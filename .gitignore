@@ -1,3 +1,4 @@
 stage2/out/checkpoints/weights*.hdf5
 stage2/out/tensorBoard/*/events.out.tfevents.*
-
+stage3-day2/common/__pycache__
+stage3-day2/data/__pycache__
