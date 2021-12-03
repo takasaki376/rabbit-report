@@ -24,7 +24,7 @@
 
 ## day2
 
-1. [Section1：勾配消失問題](./stage4-day2/Section1：勾配消失問題.ipynb)
+1. [Section1：勾配消失問題](./stage3-day2/Section1：勾配消失問題.ipynb)
 1. [Section2：学習率最適化手法](./stage3-day2/Section2：学習率最適化手法.ipynb)
 1. [Section3：過学習](./stage3-day2/Section3：過学習.ipynb)
 1. [Section4：畳み込みニューラルネットワークの概念](./stage3-day2/Section4：畳み込みニューラルネットワークの概念.ipynb)
