@@ -36,8 +36,7 @@
 
 1. [Section1：再帰型ニューラルネットワークの概念](./stage4-day1/Section1：再帰型ニューラルネットワークの概念.ipynb)
 1. [Section2：LSTM](./stage4-day1/Section2：LSTM.ipynb)
-1. [Section3：GRU](./stage4-day1/Section3：GRU.ipynb)
-1. [Section4：双方向 RNN](./stage4-day1/Section4：双方向RNN.ipynb)
+1. [Section3：GRU、Section4：双方向 RNN](./stage4-day1/Section3：GRU、Section4：双方向RNN.ipynb)
 1. [Section5：Seq2Seq](./stage4-day1/Section5：Seq2Seq.ipynb)
 1. [Section6：Word2vec](./stage4-day1/Section6：Word2vec.ipynb)
 1. [Section7：Attention Mechanism](./stage4-day1/Section7：Attention_Mechanism.ipynb)
